@@ -16,4 +16,4 @@ En este proyecto 3, se trabajará con datos de casos positivos de COVID-19 en Co
 
 ## **Vídeo sustentación**
 
-[Link video](https://youtu.be/q8viq8LT7kc)
+[Link video](https://youtu.be/tmHnEC_aHqQ)
